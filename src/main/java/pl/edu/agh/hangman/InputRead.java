@@ -18,10 +18,4 @@ public class InputRead {
         }
         return wordList;
     }
-    public static void main(String[] args) {
-        InputRead i = new InputRead();
-        RandomWord randomWord = new RandomWord();
-        String rrword = randomWord.getRandomWord(i.inputRead());
-        System.out.println(rrword);
-    }
 }
