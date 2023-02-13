@@ -1,3 +1,5 @@
+package pl.edu.agh.hangman;
+
 import java.io.*;
 import java.util.ArrayList;
 class FindLetter {
